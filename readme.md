@@ -20,11 +20,6 @@ This will be converted to:
     <img alt="test" src="http://example.com/image.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
     <span class="img_caption" style="display: block; text-align: center;">caption</span>
 </span>
-
-<figure>
-    <img alt="alttext" src="http://example.com/image.png" title="caption" />
-    <figcaption>caption</figcaption>
-</figure>
 ```
 
 Why no figure tag implementation ?
